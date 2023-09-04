@@ -9,6 +9,7 @@ Made in a couple hours for demo purposes, developed on the web platform issues s
 - More foolproofing
 - Can't detect Keypresses
 - Add more functions like trigo.
+- Size buttons properly, flutter has a lot of ways to kinda influence the size of something, need to find an idiomatic way to do it.
 
 Uses RPN (Reverse Polish Notation) or infix notation where the operation is followed by its arguments, eg:
 ```
